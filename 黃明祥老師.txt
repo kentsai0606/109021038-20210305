@@ -1,0 +1,1011 @@
+style='mso-spacerun:yes'>&nbsp;</span><a href="P153.pdf">P153.pdf</a></span></b><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>205.</span></span><![endif]><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé'>Iuon-Chung Lin, <b style='mso-bidi-font-weight:
+normal'>Min-Shiang Hwang</b>, Chin-Chen Chang, &quot;A New Key Assignment
+Scheme for Enforcing Complicated Access Control Policies in Hierarchy&quot;, Future
+Generation Computer Systems, Vol. 19, no. 4, pp 457-462, May 2003. [SCI]<span
+style='mso-spacerun:yes'>&nbsp; </span><b style='mso-bidi-font-weight:normal'><span
+style='color:blue'><a href="P018.ps">P018.ps</a><span
+style='mso-spacerun:yes'>&nbsp; </span><a href="P018.pdf">P018.pdf</a></span></b><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>206.</span></span><![endif]><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé;mso-font-kerning:0pt'>Chou-Chen Yang, Ting-Yi
+Chang,</span><b style='mso-bidi-font-weight:normal'><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé'> Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, &quot;A New Anonymous
+Conference Key Distribution System Based on the Elliptic Curve Discrete
+Logarithm Problem&quot;, Computer Standards and Interfaces, Vol 25, No. 2, pp
+141-145, May 2003. [SCI]<span style='mso-spacerun:yes'>&nbsp; </span><b
+style='mso-bidi-font-weight:normal'><span style='color:blue'><a href="P156.ps">P156.ps</a><span
+style='mso-spacerun:yes'>&nbsp; </span><a href="P156.pdf">P156.pdf</a></span></b><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>207.</span></span><![endif]><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé;mso-font-kerning:0pt'>Iuon-Chang Lin, </span><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-fareast-font-family:
+¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span lang=EN-US style='mso-fareast-font-family:
+¼Ð·¢Åé'>, Chin-Chen Chang</span><span lang=EN-US style='mso-fareast-font-family:
+¼Ð·¢Åé;mso-font-kerning:0pt'>, </span><span lang=EN-US style='mso-fareast-font-family:
+¼Ð·¢Åé'>&quot;Security Enhancement for Anonymous Secure E-Voting over a Network&quot;,
+Computer Standards &amp; Interfaces, Vol. 25, no. 2, pp. 131-139, May 2003.
+[SCI] <span style='mso-spacerun:yes'>&nbsp;</span>(ISSN:</span><span
+lang=EN-US style='font-size:9.5pt;font-family:"Verdana",sans-serif'> </span><span
+lang=EN-US style='mso-bidi-font-size:12.0pt'>0920-5489</span><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé'>)<span style='mso-spacerun:yes'>&nbsp;
+</span><b style='mso-bidi-font-weight:normal'><span style='color:blue'><a
+href="p082.ps">P082.ps</a><span style='mso-spacerun:yes'>&nbsp; </span><a
+href="P082.pdf">P082.pdf</a></span></b><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>208.</span></span><![endif]><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé;mso-font-kerning:0pt'>Cheng-Chi Lee, </span><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-fareast-font-family:
+¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span lang=EN-US style='mso-fareast-font-family:
+¼Ð·¢Åé'>, Wei-Pang Yang</span><span lang=EN-US style='mso-fareast-font-family:
+¼Ð·¢Åé;mso-font-kerning:0pt'>, </span><span lang=EN-US style='mso-fareast-font-family:
+¼Ð·¢Åé'>&quot;Extension of Authentication Protocol for GSM&quot;, IEE Proceedings ¡V
+Communications, vol. 150, no. 2, pp. 91-95, Apr. 2003. [SCI]<span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><b style='mso-bidi-font-weight:
+normal'><span style='color:blue'><a href="P083.ps">P083.ps</a><span
+style='mso-spacerun:yes'>&nbsp; </span><a href="P083.pdf">P083.pdf</a></span></b><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>209.</span></span><![endif]><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé;mso-font-kerning:0pt'>Eric Jui-Lin Lu, Cheng-Chi
+Lee, <b>Min-Shiang Hwang</b>,</span><span lang=EN-US style='mso-fareast-font-family:
+¼Ð·¢Åé'> &quot;Cryptanalysis of Some Authenticated Key Agreement Protocols&quot;, International
+Journal of Computational and Numerical Analysis and Applications, Vol. 3, no.
+2, pp. 151-157, Apr. 2003. <b style='mso-bidi-font-weight:normal'><span
+style='color:blue'><span style='mso-spacerun:yes'>&nbsp;</span><a href="P092.ps">P092.ps</a><span
+style='mso-spacerun:yes'>&nbsp; </span><a href="P092.pdf">P092.pdf</a><o:p></o:p></span></b></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>210.</span></span><![endif]><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé'>Chou-Chen Yang, Ting-Yi Chang, Jian-Wei Li,
+<b style='mso-bidi-font-weight:normal'>Min-Shiang Hwang</b>, &quot;Simple
+Generalized Group-oriented Cryptosystems Using ElGamal Cryptosystem&quot;, Informatica,
+vol. 14, no. 1, pp. 111-120, 2003. [SCI] </span><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+¼Ð·¢Åé;color:black'>(</span></b><span lang=EN-US style='mso-bidi-font-size:12.0pt;
+mso-fareast-font-family:¼Ð·¢Åé;color:black'>ISSN:</span><span lang=EN-US
+style='mso-bidi-font-size:12.0pt'>0868-4952</span><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+¼Ð·¢Åé;color:black'>)<span style='mso-spacerun:yes'>&nbsp; </span></span></b><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-bidi-font-size:
+12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:blue'><a href="P151.ps">P151.ps</a><span
+style='mso-spacerun:yes'>&nbsp; </span><a href="P151.pdf">P151.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé;color:blue'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>211.</span></span><![endif]><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé'>Iuon-Chung Lin, <b style='mso-bidi-font-weight:
+normal'>Min-Shiang Hwang</b>, Li-Hua Li, &quot;A New Remote User Authentication
+Scheme for Multi-Server Architecture&quot;, Future Generation Computer Systems,
+vol. 19, no. 1, pp. 13-22, 2003. [SCI] (ISSN:</span><span lang=EN-US
+style='font-size:9.5pt;font-family:"Verdana",sans-serif'> </span><span
+lang=EN-US style='mso-bidi-font-size:12.0pt'>0167-739X</span><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé'>)<span style='mso-spacerun:yes'>&nbsp;
+</span><b style='mso-bidi-font-weight:normal'><span style='color:blue'><a
+href="P061.ps">P061.ps</a><span style='mso-spacerun:yes'>&nbsp; </span><a
+href="P063.pdf">P061.pdf</a></span></b><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>212.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, </span><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé;mso-font-kerning:0pt'>Cheng-Chi Lee, </span><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Yan-Chi Lai</span><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé;mso-font-kerning:0pt'>,</span><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'> &quot;Traceability on Stadler
+et al.'s Fair Blind Signature Scheme&quot;, IEICE Transactions on Fundamentals
+on Electronics, Communications and Computer Sciences, Vol. E86-A, no. 2, pp.
+513-514, Feb. 2003. [SCI] <span style='mso-spacerun:yes'>&nbsp;</span></span><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-bidi-font-size:
+12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:blue'><a href="P102.ps">P102.ps</a><span
+style='mso-spacerun:yes'>&nbsp; </span><a href="P102.pdf">P102.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>213.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, Wei-Pang Yang</span><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé;mso-font-kerning:0pt'>, </span><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>&quot;An Authentication Protocol
+for Multicast Communications&quot;, Pakistan Journal of Applied Sciences, vol.
+2, no. 12, pp. 1082-1083, Dec. 2002.<span style='mso-spacerun:yes'>&nbsp;
+</span><b style='mso-bidi-font-weight:normal'><span style='color:blue'><a
+href="P030.ps">P030.ps</a><span style='mso-spacerun:yes'>&nbsp; </span><a
+href="P030.pdf">P030.pdf</a></span></b><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>214.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, Cheng-Chi Lee, Shin-Jia Hwang,</span><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé;mso-font-kerning:0pt'> </span><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>&quot;Cryptanalysis of the
+Hwang-Shi Proxy Signature Scheme&quot;, Fundamenta Informaticae, Vol. 53, No.
+2, pp. 131-134, Nov. 2002. (SCI)<span style='mso-spacerun:yes'>&nbsp; </span><b
+style='mso-bidi-font-weight:normal'><span style='color:blue'><a href="P099.ps">P099.ps</a><span
+style='mso-spacerun:yes'>&nbsp; </span><a href="P099.pdf">P099.pdf</a></span></b><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>215.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, Chih-Wei Lin</span><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé;mso-font-kerning:0pt'>, Cheng-Chi
+Lee,</span><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'> &quot;Improved
+Yen-Joye's Authenticated Multiple-key Agreement Protocol&quot;, IEE Electronics
+Letters, vol. 38, no. 23, pp. 1429-1431, Nov. 2002. [SCI]<span
+style='mso-spacerun:yes'>&nbsp; </span><b style='mso-bidi-font-weight:normal'><span
+style='color:blue'><a href="P121.ps">P121.ps</a> <span
+style='mso-spacerun:yes'>&nbsp;&nbsp;</span><a href="P121.pdf">P121.pdf</a><o:p></o:p></span></b></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>216.</span></span><![endif]><b><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé;mso-font-kerning:0pt'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé;mso-font-kerning:0pt'>, S. Wesley
+Changchien, Cheng-Chi Lee, </span><span lang=EN-US style='mso-fareast-font-family:
+¼Ð·¢Åé'>&quot;A New Method to Strengthen Ciphers&quot;, International Journal of Pure
+and Applied Mathematics, vol. 3, no. 2, pp. 187-192, 2002.<span
+style='mso-spacerun:yes'>&nbsp; </span><b style='mso-bidi-font-weight:normal'><span
+style='color:blue'><a href="P021.ps">P021.ps</a><span
+style='mso-spacerun:yes'>&nbsp; </span><a href="P021.pdf">P021.pdf</a></span></b><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>217.</span></span><![endif]><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé;mso-bidi-font-weight:bold'>Iuon-Chang Lin, Hsia-Hung
+Ou,</span><b style='mso-bidi-font-weight:normal'><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé'> Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, &quot;Two Secure Transportation
+Schemes for Mobile Agents&quot;, </span><span lang=EN-US style='mso-bidi-font-size:
+24.0pt;mso-fareast-font-family:¼Ð·¢Åé'>Information and Security: </span><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>An International Journal, vol.
+8, no. 1, pp. 87-97, 2002.<span style='mso-spacerun:yes'>&nbsp; </span><b
+style='mso-bidi-font-weight:normal'><span style='color:blue'><a href="P088.ps">P088.ps</a><span
+style='mso-spacerun:yes'>&nbsp; </span><a href="P088.pdf">P088.pdf</a></span></b><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>218.</span></span><![endif]><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé'>Cheng-Chi Lee, Li-Hua Li, <b>Min-Shiang
+Hwang</b>, &quot;A Remote User Authentication Scheme Using Hash
+Functions&quot;, ACM Operating Systems Review, vol. 36, no. 4, pp. 23-29, Oct.
+2002. [EI]<span style='mso-spacerun:yes'>&nbsp; </span><b style='mso-bidi-font-weight:
+normal'><span style='color:blue'><a href="P098.ps">P098.ps</a><span
+style='mso-spacerun:yes'>&nbsp; </span><a href="P098.pdf">P098.pdf</a></span></b><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>219.</span></span><![endif]><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé;mso-font-kerning:0pt'>S. Wesley Changchien, <b>Min-Shiang
+Hwang</b></span><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, &quot;A
+Batch Verifying and Detecting Multiple RSA Digital Signatures&quot;, International
+Journal of Computational and Numerical Analysis and Applications, vol. 2, no.
+3, pp. 303-307, Oct. 2002.<span style='mso-spacerun:yes'>&nbsp; </span><b
+style='mso-bidi-font-weight:normal'><span style='color:blue'><a href="P050.ps">P050.ps</a><span
+style='mso-spacerun:yes'>&nbsp; </span><a href="P050.pdf">P050.pdf</a></span></b><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>220.</span></span><![endif]><b><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé;mso-font-kerning:0pt'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé;mso-font-kerning:0pt'>, Cheng-Chi
+Lee, Yuan-Liang Tang, </span><span lang=EN-US style='mso-fareast-font-family:
+¼Ð·¢Åé'>&quot;A Simple Remote User Authentication Scheme&quot;, Mathematical and
+Computer Modelling, Vol. 36, pp. 103-107, Oct. 2002. [SCI] </span><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-bidi-font-size:
+12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:red'><span
+style='mso-spacerun:yes'>&nbsp;</span></span></b><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+¼Ð·¢Åé;color:blue'><a href="P087.ps">P087.ps</a><span
+style='mso-spacerun:yes'>&nbsp; </span><a href="P087.pdf">P087.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé;color:blue'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>221.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, </span><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé;mso-font-kerning:0pt'>Cheng-Chi Lee</span><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, Wei-Pang Yang, &quot;An
+Improvement of Mobile Users Authentication in the Integration Environments&quot;,
+International Journal of Electronics and Communications, vol. 56, no. 5, pp
+293-297, Sep. 2002. [SCI] </span><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:¼Ð·¢Åé;
+color:red'><span style='mso-spacerun:yes'>&nbsp;</span></span></b><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-bidi-font-size:
+12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:blue'><a href="P091.ps">P091.ps</a><span
+style='mso-spacerun:yes'>&nbsp; </span><a href="P091.pdf">P091.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>222.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, Chao-Chen Yang, Shiang-Feng
+Tzeng, &quot;Improved Digital Signature Scheme Based on Factoring and Discrete
+Logarithms&quot;, Journal of Discrete Mathematical Sciences &amp; Cryptography,
+vol. 5, no. 2, pp. 151-155, Aug. 2002.<span style='mso-spacerun:yes'>&nbsp;
+</span><b style='mso-bidi-font-weight:normal'><span style='color:blue'><a
+href="P052.ps">P052.ps</a><span style='mso-spacerun:yes'>&nbsp; </span><a
+href="P052.pdf">P052.pdf</a><o:p></o:p></span></b></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>223.</span></span><![endif]><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé'>Cheng-Chi Lee, <b>Min-Shiang Hwang</b>,
+Wei-Pang Yang, &quot;A Flexible Remote User Authentication Scheme Using Smart
+Cards&quot;, ACM Operating Systems Review, vol. 36, no. 3, pp. 46-52, July
+2002. [EI]<span style='mso-spacerun:yes'>&nbsp; </span><b style='mso-bidi-font-weight:
+normal'><span style='color:blue'><a href="P104.ps">P104.ps</a><span
+style='mso-spacerun:yes'>&nbsp; </span><a href="P104.pdf">P104.pdf</a></span></b><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>224.</span></span><![endif]><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé;mso-font-kerning:0pt'>Chin-Chen Chang</span><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, Kuo-Feng Hwang, <b
+style='mso-bidi-font-weight:normal'>Min-Shiang Hwang</b>, &quot;A
+Feature-Oriented Copyright Owner Proving Technique for Still Images&quot;, International
+Journal of Software Engineering and Knowledge Engineering, vol. 12, no. 3, pp.
+317-330, June 2002. [SCI, EI] </span><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:¼Ð·¢Åé;
+color:red'><span style='mso-spacerun:yes'>&nbsp;</span></span></b><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-bidi-font-size:
+12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:black'><span
+style='mso-spacerun:yes'>&nbsp;</span></span></b><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+¼Ð·¢Åé;color:blue'><a href="P064.ps">P064.ps</a><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><a href="P064.pdf">P064.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé;color:blue'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>225.</span></span><![endif]><b><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé;mso-font-kerning:0pt'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé;mso-font-kerning:0pt'>, Cheng-Chi
+Lee, Ting-Yi Chang,</span><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>
+&quot;Broadcasting Cryptosystem in Computer Networks Using Geometric Properties
+of Lines&quot;, Journal of Information Science and Engineering, Vol. 18, No. 3,
+pp. 373-379, May 2002. [SCI] </span><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:¼Ð·¢Åé;
+color:red'><span style='mso-spacerun:yes'>&nbsp;</span></span></b><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-bidi-font-size:
+12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:blue'><a href="p027.ps">P027.ps</a><span
+style='mso-spacerun:yes'>&nbsp; </span><a href="p027.pdf">P027.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>226.</span></span><![endif]><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé;mso-font-kerning:0pt'>Yuan-Liang Tang, <b>Min-Shiang
+Hwang</b>, Ching-Rong Yang,</span><span lang=EN-US style='mso-fareast-font-family:
+¼Ð·¢Åé'> &quot;An Image Authentication Scheme Based On Digital Signatures&quot;, Pakistan
+Journal of Applied Sciences, vol. 2, no. 5, pp. 553-557, May 2002.<span
+style='mso-spacerun:yes'>&nbsp; </span><b style='mso-bidi-font-weight:normal'><span
+style='color:blue'><a href="P060.ps">P060.ps</a><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><a href="P060.pdf">P060.pdf</a><o:p></o:p></span></b></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>227.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, </span><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé;mso-font-kerning:0pt'>Cheng-Chi Lee</span><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, Yan-Chi Lai, &quot;Traceability
+on Low-Computation Partially Blind Signatures for Electronic Cash&quot;, IEICE
+Fundamentals on Electronics, Communications and Computer Sciences, vol. E85-A,
+No. 5, pp. 1181-1182, May 2002. [SCI] </span><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+¼Ð·¢Åé;color:red'><span style='mso-spacerun:yes'>&nbsp;</span></span></b><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-bidi-font-size:
+12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:blue'><a href="P105.ps">P105.ps</a><span
+style='mso-spacerun:yes'>&nbsp; </span><a href="P105.pdf">P105.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé;color:blue'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>228.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, Wei-Pang Yang, &quot;Integrating
+Different Semantics of Classification Levels in Heterogeneous Distributed
+Database Systems&quot;, </span><span lang=EN-US style='mso-bidi-font-size:24.0pt;
+mso-fareast-font-family:¼Ð·¢Åé'>Pakistan Journal of Information and Technology,
+vol. 1, no. 1, pp. 1-4, April 2002</span><span lang=EN-US style='mso-fareast-font-family:
+¼Ð·¢Åé'>.<span style='mso-spacerun:yes'>&nbsp; </span><b style='mso-bidi-font-weight:
+normal'><span style='color:blue'><a href="P012.ps">P012.ps</a><span
+style='mso-spacerun:yes'>&nbsp; </span><a href="P012.pdf">P012.pdf</a></span></b><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>229.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, </span><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé;mso-font-kerning:0pt'>Chin-Chen Chang</span><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, Kuo-Feng Hwang, &quot;An
+Improved Authentication Protocol Without Trusted Third Party&quot;, International
+Journal of Computational and Numerical Analysis and Applications, vol. 1, no.
+4, pp. 407-412, April 2002.<span style='mso-spacerun:yes'>&nbsp; </span><b
+style='mso-bidi-font-weight:normal'><span style='color:blue'><a href="P042.ps">P042.ps</a><span
+style='mso-spacerun:yes'>&nbsp; </span><a href="P042.pdf">P042.pdf</a></span></b><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>230.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, Chin-Chen Chang, Kuo-Feng
+Hwang, &quot;An ElGamal-like Cryptosystem For Enciphering Large Messages&quot;,
+IEEE Transactions on Knowledge and Data Engineering, vol. 14, no. 2, pp.
+445-446, March/April 2002. [SCI] <span style='mso-spacerun:yes'>&nbsp;</span><span
+style='color:blue'><a href="P045.ps">P045.ps</a><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><a href="P045.pdf">P045.pdf</a></span>
+</span><b style='mso-bidi-font-weight:normal'><span lang=EN-US
+style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:red'><span
+style='mso-spacerun:yes'>&nbsp;</span></span></b><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>231.</span></span><![endif]><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé'>Chin-Chen Chang, Kuo-Feng Hwang, <b
+style='mso-bidi-font-weight:normal'>Min-Shiang Hwang</b>, ¡§A Robust
+Authentication Scheme for Protecting Copyrights of Images and Graphics¡¨, IEE Proceedings
+Vision, Image and Signal Processing, vol. 149, no. 1, pp. 43-50, Feb. 2002.
+[SCI] </span><b style='mso-bidi-font-weight:normal'><span lang=EN-US
+style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:red'><span
+style='mso-spacerun:yes'>&nbsp;</span></span></b><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+¼Ð·¢Åé;color:black'><span style='mso-spacerun:yes'>&nbsp;&nbsp;</span></span></b><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-bidi-font-size:
+12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:blue'><a href="P059.ps">P059.ps</a><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><a href="P059.pdf">P059.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé;color:blue'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>232.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, </span><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé;mso-font-kerning:0pt'>Eric Jui-Lin Lu</span><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, Iuon-Chung Lin, &quot;Adding
+Timestamps to the Secure Electronic Auction Protocol&quot;, Data &amp;
+Knowledge Engineering, vol. 40, no. 2, pp. 155-162, Feb. 2002. [SCI] </span><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-bidi-font-size:
+12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:red'><span
+style='mso-spacerun:yes'>&nbsp;</span></span></b><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+¼Ð·¢Åé;color:blue'><a href="P040.ps">P040.ps</a><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><a href="P040.pdf">P040.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>233.</span></span><![endif]><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé;mso-font-kerning:0pt'>Eric Jui-Lin Lu</span><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, <b style='mso-bidi-font-weight:
+normal'>Min-Shiang Hwang</b></span><span lang=EN-US style='mso-fareast-font-family:
+¼Ð·¢Åé;mso-font-kerning:0pt'>,</span><span lang=EN-US style='mso-fareast-font-family:
+¼Ð·¢Åé'> &quot;An Improvement of a Simple Authenticated Key Agreement Algorithm&quot;,
+Pakistan Journal of Applied Sciences, Vol. 2, no. 1, pp. 64-65, Jan. 2002. </span><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-bidi-font-size:
+12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:blue'><a href="P071.ps">P071.ps</a><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><a href="P071.pdf">P071.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>234.</span></span><![endif]><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé'>Li-Hua Li, Iuon-Chung Lin, <b
+style='mso-bidi-font-weight:normal'>Min-Shiang Hwang</b>, &quot;A Remote
+Password Authentication Scheme for Multi-Server Architecture Using Neural
+Networks&quot;, IEEE Transactions on Neural Networks, vol. 12, no. 6, Nov.
+2001, pp.1498-1504. [SCI] </span><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:¼Ð·¢Åé;
+color:red'><span style='mso-spacerun:yes'>&nbsp;</span></span></b><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-bidi-font-size:
+12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:blue'><a href="P028.ps">P028.ps</a><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><a href="P028.pdf">P028.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>235.</span></span><![endif]><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé'>Chin-Chen Chang, <b style='mso-bidi-font-weight:
+normal'>Min-Shiang Hwang</b>, Tung-Shou Chen, &quot;A New Encryption Algorithm
+for Image Cryptosystems&quot;, Journal of Systems and Software, vol. 58, no. 2,
+pp. 83-91, Sep. 2001. [SCI] </span><span lang=EN-US style='mso-bidi-font-size:
+12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:red'><span
+style='mso-spacerun:yes'>&nbsp;</span></span><span lang=EN-US style='mso-fareast-font-family:
+¼Ð·¢Åé'><span style='mso-spacerun:yes'>&nbsp;</span><span style='color:blue'><a
+href="P038.ps">P038.ps</a><span style='mso-spacerun:yes'>&nbsp;&nbsp; </span><a
+href="P038.pdf">P038.pdf</a></span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>236.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>,</span><span lang=EN-US
+style='font-size:14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:¼Ð·¢Åé'>
+</span><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Chii-Hwa Lee, ¡§Secure
+Access Schemes in Mobile Database Systems¡¨, European Transactions on
+Telecommunications, vol. 12, no. 4, pp. 303-310, July 2001. [SCI] <span
+style='mso-spacerun:yes'>&nbsp;</span><span style='color:blue'><a href="P039.ps">P039.ps</a><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><a href="P039.pdf">P039.pdf</a></span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>237.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, </span><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé;mso-font-kerning:0pt'>Cheng-Chi Lee,</span><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'> </span><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé;mso-font-kerning:0pt'>Eric Jui-Lin Lu</span><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, &quot;Cryptanalysis of the
+Batch Verifying Multiple DSA-type Digital Signatures&quot;, Pakistan Journal of
+Applied Sciences, vol. 1, no. 3, pp. 287-288, July 2001.</span><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-bidi-font-size:
+12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:blue'> <a href="P090.ps">P090.ps</a><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><a href="P090.pdf">P090.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>238.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, Cheng-Chi Lee, Yuan-Liang Tang,
+&quot;An Improvement of SPLICE/AS in WIDE Against Guessing Attack&quot;, International
+Journal of Informatica, vol. 12, no. 2, pp.297-302, Apr. 2001. [SCI]</span><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-bidi-font-size:
+12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:blue'> <a href="P074.ps">P074.ps</a><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><a href="P074.pdf">P074.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>239.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, Iuon-Chung Lin, Li-Hua Li,
+&quot;A Simple Micro-payment Scheme&quot;, Journal of Systems and Software,
+vol. 55, no. 3, pp. 221-229, Jan. 2001. [SCI] </span><span lang=EN-US
+style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:red'><span
+style='mso-spacerun:yes'>&nbsp;</span></span><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+¼Ð·¢Åé;color:blue'><a href="P056.ps">P056.ps</a><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><a href="P056.pdf">P056.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>240.</span></span><![endif]><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé'>Chin-Chen Chang, Kuo-Feng Hwang, <b
+style='mso-bidi-font-weight:normal'>Min-Shiang Hwang</b>, &quot;A Digital Watermarking
+Scheme Using Human Visual Effects&quot;, Informatica: An International Journal
+of Computing and Informatics, Vol. 24, No. 4, pp. 505-511, Dec. 2000. [EI] </span><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-bidi-font-size:
+12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:blue'><span
+style='mso-spacerun:yes'>&nbsp;</span><a href="P046.pdf">P046.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>241.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, Chin-Chen Chang, Kuo-Feng
+Hwang, &quot;An Efficient Threshold Decryption Scheme without Session Keys&quot;,
+Computers &amp; Electrical Engineering, vol. 27, no. 1, pp. 29-35, Nov. 2000.
+[SCI] </span><b style='mso-bidi-font-weight:normal'><span lang=EN-US
+style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:red'><span
+style='mso-spacerun:yes'>&nbsp;</span></span></b><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+¼Ð·¢Åé;color:blue'><a href="P043.ps">P043.ps</a><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><a href="P043.pdf">P043.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>242.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, &quot;A New Redundancy
+Reducing Cipher&quot;, Informatica, vol. 11, no. 4, pp. 435-440, Oct. 2000.
+[SCI] </span><b style='mso-bidi-font-weight:normal'><span lang=EN-US
+style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:red'><span
+style='mso-spacerun:yes'>&nbsp;</span></span></b><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+¼Ð·¢Åé;color:blue'><a href="P025.ps">P025.ps</a><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><a href="P025.pdf">P025.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>243.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, &quot;An Asymmetric
+Cryptographic Key Assignment Scheme for Access Control in Totally-Ordered
+Hierarchies&quot;, International Journal of Computer Mathematics, vol. 73, no.
+4, pp. 463-468, Oct. 2000. [SCI] </span><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:¼Ð·¢Åé;
+color:red'><span style='mso-spacerun:yes'>&nbsp;</span></span></b><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-bidi-font-size:
+12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:blue'><a href="P004.ps">P004.ps</a><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><a href="P004.pdf">P004.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>244.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, Iuon-Chung Lin, Eric Jui-Lin
+Lu, &quot;A Secure Nonrepudiable Threshold Proxy Signature Scheme with Known Signers&quot;,
+Informatica, vol. 11, no. 2, pp. 137-144, Apr. 2000. [SCI] </span><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-bidi-font-size:
+12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:red'><span
+style='mso-spacerun:yes'>&nbsp;</span></span></b><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+¼Ð·¢Åé;color:blue'><a href="P068.ps">P068.ps</a><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><a href="P068.pdf">P068.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>245.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, Li-Hua Li, &quot;A New Remote
+User Authentication Scheme Using Smart Cards&quot;, IEEE Transactions on
+Consumer Electronics, vol. 46, no. 1, pp.28-30, Feb. 2000. [SCI] </span><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-bidi-font-size:
+12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:red'><span
+style='mso-spacerun:yes'>&nbsp;</span></span></b><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+¼Ð·¢Åé;color:blue'><a href="P013.ps">P013.ps</a><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><a href="P013.pdf">P013.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>246.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, &quot;Cryptanalysis of YCN Key
+Assignment Scheme in a Hierarchy&quot;, Information Processing Letters, vol.
+73, no. 3, pp. 97-101, Feb. 2000. [SCI] </span><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+¼Ð·¢Åé;color:red'><span style='mso-spacerun:yes'>&nbsp;</span></span></b><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-bidi-font-size:
+12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:blue'><a href="P055.ps">P055.ps</a><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><a href="P055.pdf">P055.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>247.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, Chin-Chen Chang, Kuo-Feng
+Hwang, &quot;Digital Watermarking of Images Using Neural Networks&quot;,
+Journal of Electronic Imaging, vol. 9, no. 4, pp. 548-555, Jan. 2000. [SCI] </span><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-bidi-font-size:
+12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:red'><span
+style='mso-spacerun:yes'>&nbsp;</span></span></b><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+¼Ð·¢Åé;color:blue'><a href="P051.ps">P051.ps</a><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><a href="P051.pdf">P051.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>248.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, Kuo-Feng Hwang, Iuon-Chung Lin,
+&quot;Cryptanalysis of The Batch Verifying Multiple RSA Digital Signatures&quot;,
+Informatica, vol. 11, no. 1, pp. 1-4, Jan. 2000. [SCI] </span><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-bidi-font-size:
+12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:red'><span
+style='mso-spacerun:yes'>&nbsp;</span></span></b><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+¼Ð·¢Åé;color:blue'><a href="P053.ps">P053.ps</a><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><a href="P053.pdf">P053.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>249.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, ¡§A Remote Password
+Authentication Scheme Based on the Digital Signature Method¡¨, International
+Journal of Computer Mathematics, vo1.70, no. 4, pp. 657-666, Oct. 1999. [SCI] </span><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-bidi-font-size:
+12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:red'><span
+style='mso-spacerun:yes'>&nbsp;</span></span></b><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+¼Ð·¢Åé;color:blue'><span style='mso-spacerun:yes'>&nbsp;</span><a href="P020.pdf">P020.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt'><a
+name="OLE_LINK2"><![if !supportLists]><span lang=EN-US style='mso-fareast-font-family:
+"Times New Roman"'><span style='mso-list:Ignore'>250.</span></span><![endif]><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-fareast-font-family:
+¼Ð·¢Åé'>Min-Shiang Hwang</span></b></a><span style='mso-bookmark:OLE_LINK2'><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, ¡§Dynamic Participation in a
+Secure Conference Scheme for Mobile Communications¡¨, IEEE Transactions on
+Vehicular Technology, vol. 48, no. 5, pp. 1469-1474, Sep. 1999. [SCI] </span></span><span
+style='mso-bookmark:OLE_LINK2'><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:¼Ð·¢Åé;
+color:red'><span style='mso-spacerun:yes'>&nbsp;</span></span></b></span><span
+style='mso-bookmark:OLE_LINK2'></span><a href="P029.pdf"><span
+style='mso-bookmark:OLE_LINK2'><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:¼Ð·¢Åé'>P029.pdf</span></b></span><span
+style='mso-bookmark:OLE_LINK2'></span></a><span style='mso-bookmark:OLE_LINK2'><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></span></p>
+
+<span style='mso-bookmark:OLE_LINK2'></span>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>251.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, &quot;A New Dynamic
+Cryptographic Key Generation Scheme for a Hierarchy&quot;, Nordic Journal of
+Computing, vol. 6, no. 4, pp. 363-371, Aug. 1999.</span><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+¼Ð·¢Åé;color:blue'> <a href="P009.ps">P009.ps</a><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><a href="P009.pdf">P009.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>252.</span></span><![endif]><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé'>Chii-Hwa Lee, <b style='mso-bidi-font-weight:
+normal'>Min-Shiang Hwang</b>, and Wei-Pang Yang, ¡§Enhanced Privacy and
+Authentication for the Global System of Mobile Communications¡¨, Wireless
+Networks, vol. 5, pp. 231-243, July 1999.<span style='mso-spacerun:yes'>&nbsp;
+</span>[SCI]</span><b style='mso-bidi-font-weight:normal'><span lang=EN-US
+style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:blue'> <span
+style='mso-spacerun:yes'>&nbsp;</span><a href="P024.ps">P024.ps</a><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><a href="P024.pdf">P024.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>253.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, ¡§Extension of CHW
+Cryptographic Key Assignment Scheme in a Hierarchy¡¨, IEE Proceedings Computers
+and Digital Techniques, vol. 146, no. 4, pp. 219, July 1999. [SCI] </span><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-bidi-font-size:
+12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:red'><span
+style='mso-spacerun:yes'>&nbsp;</span></span></b><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+¼Ð·¢Åé;color:blue'><a href="P054.ps">P054.ps</a><span
+style='mso-spacerun:yes'>&nbsp; </span><span
+style='mso-spacerun:yes'>&nbsp;</span><a href="P054.pdf">P054.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>254.</span></span><![endif]><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé'>Chii-Hwa Lee, <b style='mso-bidi-font-weight:
+normal'>Min-Shiang Hwang</b>, and Wei-Pang Yang, ¡§A Novel Application of the Phone
+Card and Its Authentication in Mobile Communications¡¨, Journal of Information
+Science and Engineering, vol. 15, no. 4, pp. 471-484, July 1999. [SCI] </span><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-bidi-font-size:
+12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:red'><span
+style='mso-spacerun:yes'>&nbsp;</span></span></b><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+¼Ð·¢Åé;color:blue'><a href="P037.pdf">P037.pdf</a></span></b><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>255.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, Chin-Chen Chang, Kuo-Feng
+Hwang, ¡§A Watermarking Technique Based on One-way Hash Functions&quot;, IEEE Transactions
+on Consumer Electronics, vol. 45, no. 2, pp.286-294, May 1999. [SCI] </span><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-bidi-font-size:
+12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:red'><span
+style='mso-spacerun:yes'>&nbsp;</span></span></b><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+¼Ð·¢Åé;color:blue'><a href="P047.ps">P047.ps</a><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><a href="P047.pdf">P047.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>256.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, ¡§Cryptanalysis of Remote Login
+Authentication Scheme¡¨, Computer Communications, vol.22, no.8, pp.742-744, May 1999.
+[SCI]</span><b style='mso-bidi-font-weight:normal'><span lang=EN-US
+style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:red'> <span
+style='mso-spacerun:yes'>&nbsp;</span></span></b><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+¼Ð·¢Åé;color:blue'><a href="P048.ps">P048.ps</a><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><a href="P048.pdf">P048.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>257.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, ¡§An Improvement of Novel Cryptographic
+Key Assignment Scheme for Dynamic Access Control in a Hierarchy¡¨, IEICE
+Transactions on Fundamentals of Electronics, Communications and Computer
+Sciences, Vol.E82-A, No.3, pp.548-550, March 1999. [SCI] </span><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-bidi-font-size:
+12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:red'><span
+style='mso-spacerun:yes'>&nbsp;</span></span></b><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+¼Ð·¢Åé;color:blue'><a href="P044.ps">P044.ps</a><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><a href="P044.pdf">P044.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>258.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, ¡§An Improvement of a Dynamic
+Cryptographic Key Assignment Schemes in a Tree Hierarchy¡¨, Computers </span><span
+style='font-family:¼Ð·¢Åé;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>¡®</span><span style='mso-fareast-font-family:¼Ð·¢Åé'> <span
+lang=EN-US>Mathematics<i style='mso-bidi-font-style:normal'> with Applications</i>,
+vol.37, no.3, pp.19-22, Feb. 1999. [SCI]</span></span><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+¼Ð·¢Åé;color:blue'> <a href="P014.ps">P014.ps</a><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><a href="P014.pdf">P014.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>259.</span></span><![endif]><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé'>Tung-Shou Chen, Chin-Chen Chang, and<b
+style='mso-bidi-font-weight:normal'> Min-Shiang Hwang</b>, ¡§A Virtual Image
+Cryptosystem Based upon Vector Quantization¡¨,<i style='mso-bidi-font-style:
+normal'> IEEE Transactions on Image Processing</i>, Vo1.7, No.10, pp.1485-1488,
+Oct. 1998. [SCI] </span><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:¼Ð·¢Åé;
+color:blue'><span style='mso-spacerun:yes'>&nbsp;&nbsp;</span><a href="P034.pdf">P034.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>260.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, ¡§A Cryptographic Key
+Assignment Scheme in a Hierarchy for Access Control¡¨, <i style='mso-bidi-font-style:
+normal'>Mathematical and Computer Modeling</i>, Vo1.26, No2, pp.27-31, June 25,
+1997. [SCI] </span><b style='mso-bidi-font-weight:normal'><span lang=EN-US
+style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:red'><span
+style='mso-spacerun:yes'>&nbsp;</span></span></b><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+¼Ð·¢Åé;color:blue'><a href="P016.ps">P016.ps</a><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><a href="P016.pdf">P016.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>261.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'> and Chii-Hwa Lee, ¡§Authenticated
+Key-Exchange in a Mobile Radio Network¡¨, <i style='mso-bidi-font-style:normal'>European
+Transactions on Telecommunications</i>, Vo1. 8, No.3, pp.265-269, May 1997.
+[SCI] </span><b style='mso-bidi-font-weight:normal'><span lang=EN-US
+style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:red'><span
+style='mso-spacerun:yes'>&nbsp;</span></span></b><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+¼Ð·¢Åé;color:blue'><a href="P024.ps">P024.ps</a><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><a href="P024.pdf">P024.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>262.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'> and Wei-Pang Yang, ¡§Multilevel
+Secure Database Encryption with Subkeys¡¨, <i style='mso-bidi-font-style:normal'>Data</i></span><i
+style='mso-bidi-font-style:normal'><span style='font-family:¼Ð·¢Åé;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>¡®</span></i><i
+style='mso-bidi-font-style:normal'><span lang=EN-US style='mso-fareast-font-family:
+¼Ð·¢Åé'>Knowledge Engineering</span></i><span lang=EN-US style='mso-fareast-font-family:
+¼Ð·¢Åé'>, Vo1.22, 1997, pp.117-131. [SCI] </span><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+¼Ð·¢Åé;color:red'><span style='mso-spacerun:yes'>&nbsp;</span></span></b><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-bidi-font-size:
+12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:blue'><a href="P007.ps">P007.ps</a><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><a href="P007.pdf">P007.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>263.</span></span><![endif]><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé'>Chin-Chen Chang, <b style='mso-bidi-font-weight:
+normal'>Min-Shiang Hwang</b>, ¡§Parallel Computation of the Generating Keys for
+RSA Cryptosystems¡¨, <i style='mso-bidi-font-style:normal'>IEE Electronics
+Letters</i>, vo1. 32, no. 15, July 1996, pp. 1365-1366. [SCI] </span><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-bidi-font-size:
+12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:red'><span
+style='mso-spacerun:yes'>&nbsp;</span></span></b><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+¼Ð·¢Åé;color:blue'><a href="P036.ps">P036.ps</a><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><a href="P036.pdf">P036.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>264.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, Wen-Guey Tzeng, and Wei-Pang
+Yang, ¡§An Access Control Scheme Based on Chinese Remainder Theorem and Time
+Stamp Concept¡¨, <i style='mso-bidi-font-style:normal'>Computers &amp; Security</i>,
+vo1.15, no. 1, 1996, pp.73-81. [SCI] </span><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+¼Ð·¢Åé;color:red'><span style='mso-spacerun:yes'>&nbsp;</span></span></b><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-bidi-font-size:
+12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:blue'><a href="P001.ps">P001.ps</a><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><a href="P001.pdf">P001.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>265.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'> and Wei-Pang Yang, ¡§A Two-Phase
+Encryption Scheme for Enhancing Database Security¡¨,<i style='mso-bidi-font-style:
+normal'> Journal of Systems and Software</i>, vo1.31, No.12, December 1995,
+pp.257-265. [SCI] </span><span lang=EN-US style='mso-bidi-font-size:12.0pt;
+mso-fareast-font-family:¼Ð·¢Åé;color:red'><span
+style='mso-spacerun:yes'>&nbsp;</span></span><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+¼Ð·¢Åé;color:blue'><a href="P010.ps">P010.ps</a><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><a href="P010.pdf">P010.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>266.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'> and Wei-Pang Yang, ¡§Conference
+Key Distribution Protocols for Digital Mobile Communication Systems&quot;, <i
+style='mso-bidi-font-style:normal'>IEEE Journal on Selected Areas in
+Communications</i>, vo1.13, no.2, February 1995, pp.416-420. [SCI] </span><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-bidi-font-size:
+12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:red'><span
+style='mso-spacerun:yes'>&nbsp;</span></span></b><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+¼Ð·¢Åé;color:blue'><a href="P026.pdf">P026.pdf</a></span></b><span lang=EN-US
+style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>267.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'> and Wei-Pang Yang, ¡§A New
+Dynamic Access Control Scheme Based on Subject-Object-List¡¨, <i
+style='mso-bidi-font-style:normal'>Data &amp; Knowledge Engineering</i>,
+Vo1.14, No.1, November 1994, pp.45-56. [SCI] </span><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+¼Ð·¢Åé;color:red'><span style='mso-spacerun:yes'>&nbsp;</span></span></b><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-bidi-font-size:
+12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:blue'><a href="P002.ps">P002.ps</a><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><a href="P002.pdf">P002.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>268.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, Wen-Guey Tzeng, and Wei-Pang
+Yang, ¡§A Two-Key-Lock-Pair Access Control Method Using Prime Factorization and
+Time Stamp¡¨, <i style='mso-bidi-font-style:normal'>IEICE Transactions on
+Information and Systems</i>, vo1. E77-D, No.9, September 1994, pp.1042-1046.
+[SCI] </span><b style='mso-bidi-font-weight:normal'><span lang=EN-US
+style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:red'><span
+style='mso-spacerun:yes'>&nbsp;</span></span></b><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+¼Ð·¢Åé;color:blue'><a href="P003.ps">P003.ps</a><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><a href="P003.pdf">P003.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:45.0pt;text-align:justify;text-justify:
+inter-ideograph;text-indent:-21.0pt;mso-list:l37 level1 lfo33;tab-stops:list 36.0pt 45.0pt'><![if !supportLists]><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>269.</span></span><![endif]><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>Min-Shiang Hwang</span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'>, Chin-Chen Chang, Wei-Pang
+Yang, ¡§Modified Chang-Hwang-Wu Access Control Scheme¡¨, <i style='mso-bidi-font-style:
+normal'>IEE Electronics Letters</i>, vo1.29, no.24, November 1993,
+pp.2095-2096. [SCI] </span><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:¼Ð·¢Åé;
+color:red'><span style='mso-spacerun:yes'>&nbsp;</span></span></b><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-bidi-font-size:
+12.0pt;mso-fareast-font-family:¼Ð·¢Åé;color:blue'><a href="P008.ps">P008.ps</a><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><a href="P008.pdf">P008.pdf</a></span></b><span
+lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:24.0pt;text-align:justify;text-justify:
+inter-ideograph'><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:¼Ð·¢Åé'><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+</body>
+
+</html>
